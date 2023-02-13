@@ -2,3 +2,7 @@
 # yarn lockfile v1
 
 
+dom-parser@^0.1.6:
+  version "0.1.6"
+  resolved "https://registry.npmjs.org/dom-parser/-/dom-parser-0.1.6.tgz#696c633b535ab3291424eb5bf58ee426f64632ca"
+  integrity sha512-3nVRKbLEwmGfghLoeT1dxlK/0votalnOfasP+8VCHYDfDuCETY4LeMblfOeqww6XZk2ymZ1Uewy/hVad6Dy3yw==
